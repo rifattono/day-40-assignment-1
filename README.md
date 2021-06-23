@@ -1,1 +1,1 @@
-# day-40-assignment-1
+# class-39-video-assignment-with-resposnive
